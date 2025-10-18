@@ -13,11 +13,11 @@ Libraries: requests, datetime, statistics
 
 # Useful Websites
 
-* [OpenWeatherMap API Docs](https://openweathermap.org/api) — for how to fetch weather data  
-* [Python requests library guide](https://docs.python-requests.org/) — for making web requests  
-* [Python datetime docs](https://docs.python.org/3/library/datetime.html) — for handling timestamps  
-* [Stack Overflow](https://stackoverflow.com/) — for help debugging and ideas  
-* [Python statistics module docs](https://docs.python.org/3/library/statistics.html) — for mean, etc.
+* [OpenWeatherMap API Docs](https://openweathermap.org/api) 
+* [Python requests library guide](https://docs.python-requests.org/)   
+* [Python datetime docs](https://docs.python.org/3/library/datetime.html)  
+* [Stack Overflow](https://stackoverflow.com/)   
+* [Python statistics module docs](https://docs.python.org/3/library/statistics.html) 
 
 # Acknowledgements
 
