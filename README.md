@@ -2,7 +2,7 @@
 
 This is a weather data analysis app I built. It fetches live weather forecast data for Rexburg, Idaho using the OpenWeatherMap API, and analyzes it. It figures out things like daily high and low temperatures, prints a bar chart, calculates comfort scores, and highlights unusual days.
 
-I created this to learn how to work with APIs and real data in Python — to make something that actually adjusts based on live weather instead of using static files.  
+I created this to learn how to work with APIs and real data in Python to make something that actually adjusts based on live weather instead of using static files.  
 [Software Demo Video](https://youtu.be/Xp4IGFxn8do)
 
 # Development Environment
